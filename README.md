@@ -18,3 +18,10 @@ Commit 3 <br>
 git add README.md <br>
 git commit -m "commit 3"<br> 
 git push -u origin bug-fix <br>
+
+-----------------
+Commit number: 2
+Commit 4 <br>
+git add README.md <br>
+git commit -m "commit 4"<br> 
+git push -u origin bug-fix <br>
