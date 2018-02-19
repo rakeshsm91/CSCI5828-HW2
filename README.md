@@ -48,3 +48,9 @@ git merge master<br>
 git add README.md <br>
 git commit -m "Fixed merge conflict"<br> 
 git push -u origin bug-fix <br>
+
+-----------------
+Commit number: 9 : Commit 6 <br>
+git add README.md <br>
+git commit -m "commit 6"<br> 
+git push -u origin bug-fix <br>
