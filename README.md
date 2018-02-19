@@ -102,6 +102,12 @@ git add README.md <br>
 git commit -m "Fixed Merge conflict"<br> 
 git push -u origin master <br>
 
+------------------
+Commit number 14: 
+Adding image files
+
+---------------------------------------The End -----------------------------------------------
+
 
 
 
