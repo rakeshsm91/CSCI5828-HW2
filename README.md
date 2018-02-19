@@ -24,3 +24,10 @@ Commit number 7: Commit 2 <br>
 git add README.md <br>
 git commit -m "commit 2"<br> 
 git push -u origin master <br>
+
+-----------------
+Commit number 12: Commit 10 <br>
+git checkout master<br>
+git add README.md <br>
+git commit -m "commit 10"<br> 
+git push -u origin master <br>
