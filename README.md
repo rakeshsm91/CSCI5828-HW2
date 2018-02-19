@@ -81,3 +81,10 @@ git merge bug-fix-experimental <br>
 git add README.md <br>
 git commit -m "Fixed Merge Conflict"<br> 
 git push -u origin bug-fix <br>
+
+
+-----------------
+Commit number: 11: Commit 12 <br>`
+git add README.md <br>
+git commit -m "commit 12"<br> 
+git push -u origin bug-fix <br>
