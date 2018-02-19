@@ -25,3 +25,13 @@ Commit 4 <br>
 git add README.md <br>
 git commit -m "commit 4"<br> 
 git push -u origin bug-fix <br>
+
+
+-----------------
+Commit number: 3
+Commit 7 <br>
+git checkout -b bug-fix-experimental
+git add README.md <br>
+git commit -m "commit 7"<br> 
+git push -u origin bug-fix-experimental <br>
+
